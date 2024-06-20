@@ -2,7 +2,7 @@ body{
     background-color: rgb(175, 88, 255);
 }
 
-h1{
+.tittle h1{
     color: white;
     text-transform: uppercase;
     text-align: center;
@@ -10,7 +10,7 @@ h1{
 
 }
 
-p{
+.text p{
     color: white;
     font-size: 1.5em;
     text-align: center;
@@ -26,4 +26,7 @@ footer p {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
+    font-size: 1.2em;
+    text-decoration: underline;
+    
 }
